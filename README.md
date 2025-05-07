@@ -21,3 +21,15 @@ A Python client for interacting with Free Fire's API endpoints, allowing various
 Install dependencies with:
 ```bash
 pip install requests pycryptodomex
+```
+
+## Usage
+
+Initialize the API client:
+```python
+freefire_api = FreeFireApi()
+```
+Set your authentication token (replace 'yourbarrier'):
+```python
+freefire_api.Auth = 'Bearer your_actual_token_here'
+```
