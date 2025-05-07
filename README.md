@@ -62,8 +62,8 @@ freefire_api.LikeProfile(user_id, 'region_code')  # e.g. 'ID' for Indonesia
 ```
 
 ## Encryption
-All requests are encrypted using AES-CBC with:
-Key: WWcmdGMlREV1aDYlWmNeOA== (base64 decoded)
+All requests are encrypted using AES-CBC with:<br>
+Key: WWcmdGMlREV1aDYlWmNeOA== (base64 decoded)<br>
 IV: Nm95WkRyMjJFM3ljaGpNJQ== (base64 decoded)
 
 # Disclaimer
