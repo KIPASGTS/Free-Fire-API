@@ -10,6 +10,7 @@ A Python client for interacting with Free Fire's API endpoints, allowing various
 - Buy chat items
 - Request to join a clan
 - Like player profiles
+- any feature? do it urself fkup
 
 ## Requirements
 
